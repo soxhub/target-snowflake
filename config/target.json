@@ -1,0 +1,9 @@
+{
+  "snowflake_account": "${SNOWFLAKE_ACCOUNT}",
+  "snowflake_username": "${SNOWFLAKE_USERNAME}",
+  "snowflake_role": "${SNOWFLAKE_ROLE}",
+  "snowflake_password": "${SNOWFLAKE_PASSWORD}",
+  "snowflake_database": "${SNOWFLAKE_DATABASE}",
+  "snowflake_schema": "${SNOWFLAKE_SCHEMA}",
+  "snowflake_warehouse": "${SNOWFLAKE_WAREHOUSE}"
+}
